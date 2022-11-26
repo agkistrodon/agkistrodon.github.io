@@ -21,10 +21,13 @@ author: Shruti Badrish
 
 navbar-links:
   Home: "/"
-  Blog: "blog"
   Resume: "resume"
+  Blog: "blog"
   Tech: "tech"
-  Art: "art"
+  Art:
+    - Literature: "lit"
+    - Digital Art: "digart"
+    - Photography": "photo"
 
 ################
 # --- Logo --- #
