@@ -23,10 +23,10 @@ navbar-links:
   Home: "/"
   Resume: "resume"
   Blog: "blog"
-  Tech: "tech"
-  Art:
+  Portfolio:
+    - Technology: "tech"
     - Literature: "lit"
-    - Digital Art: "digart"
+    - Art: "digart"
     - Photography: "photo"
 
 ################
