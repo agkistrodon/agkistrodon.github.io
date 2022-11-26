@@ -27,7 +27,7 @@ navbar-links:
   Art:
     - Literature: "lit"
     - Digital Art: "digart"
-    - Photography": "photo"
+    - Photography: "photo"
 
 ################
 # --- Logo --- #
