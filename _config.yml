@@ -20,7 +20,7 @@ author: Shruti Badrish
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "/"
   Blog: "blog"
   Resume: "resume"
   Tech: "tech"
