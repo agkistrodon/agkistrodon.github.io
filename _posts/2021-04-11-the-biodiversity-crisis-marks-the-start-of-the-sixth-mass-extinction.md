@@ -7,7 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [science]
 ---
 
-## _444 million years ago. 375 million years ago. 251 million years ago. 200 million years ago. 66 million years ago. The Big Five Mass Extinctions rocked Earth’s geologic history. Now, this generation carries in the sixth one._
+_444 million years ago. 375 million years ago. 251 million years ago. 200 million years ago. 66 million years ago. The Big Five Mass Extinctions rocked Earth’s geologic history. Now, this generation carries in the sixth one._
 
 Over the last few centuries, our knowledge of geologic time has vastly increased. From the primitive belief that all species on Earth had originated that way, to Cuvier’s discovery of extinct species, to Darwin’s Theory of Evolution, humans have gleaned a rough understanding of the history of our world. But little did scientists beginning to study mass extinctions in the 20th century know that they were witnessing the roots of one themselves.  
 
