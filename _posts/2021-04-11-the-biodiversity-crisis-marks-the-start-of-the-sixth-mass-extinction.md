@@ -1,11 +1,13 @@
 ---
 layout: post
 title: The Biodiversity Crisis Marks the Start of the Sixth Mass Extinction
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
+thumbnail-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
+share-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
 tags: [science]
 ---
+
+_Photo by <a href="https://unsplash.com/@sandym10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sandy Millar</a> on <a href="https://unsplash.com/s/photos/extinction?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 _444 million years ago. 375 million years ago. 251 million years ago. 200 million years ago. 66 million years ago. The Big Five Mass Extinctions rocked Earth’s geologic history. Now, this generation carries in the sixth one._
 
