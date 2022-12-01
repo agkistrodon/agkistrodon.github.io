@@ -83,7 +83,68 @@ and everyone
 was around to hear it.
 ```
 
-My poem "This is how you change a world" won the district Award of Excellence at Reflections 2022:
+I wrote this poem on the topic of "Show Your Voice":
+
+```
+The Piano Man’s Symphony
+
+The streets were always filled with music
+Thanks to the piano man
+Who’d spend his days and nights outside
+His instrument in hand
+
+The people all would know him,
+But then again that wasn’t quite true
+They’d know of him, yes, 
+But not who he was, or what he could do
+
+Until that one midwinters day
+When the snow was falling down
+And the streets were cold and dark and silent
+Because the piano man wasn’t around
+
+His piano, though, was still there,
+Set up on the corner
+And people glanced with curiosity,
+But never stopped to wonder
+
+Until a young girl, no older than four
+Walked up to the bench and sat down
+And though she’d never played before
+Began to compose a song
+
+And although her notes were slightly off
+Her tempo not quite right
+When the piano man came at last
+He couldn’t help but cry
+
+He told her that day, his voice aquiver
+In between her beats
+That the world had taught him how to listen
+But never how to speak
+
+He wished the people would stop by
+Give him a few moments to spare
+But, he asked her, what was the point
+if no one cared to care?
+
+She stood up then, and said to him
+“I’ll hear what you have to say.
+I’ll be your audience;
+I’m horrible at piano, anyway.”
+
+Immediately his face broke into a smile
+For the first time that day
+As he began to play and sing the lyrics
+Of the story he’d always wanted to say
+
+And a crowd began to gather
+First one, then two, then three
+And slowly the whole town had heard
+The piano man’s symphony
+```
+
+My poem "This Is How You Change a World" won the district Award of Excellence at Reflections 2022:
 
 ```
 This Is How You Change a World
