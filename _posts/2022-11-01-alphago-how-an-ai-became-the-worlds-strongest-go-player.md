@@ -1,9 +1,9 @@
 ---
 layout: post
 title: AlphaGo: How An AI Became the World's Strongest Go Player
-cover-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
-thumbnail-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
-share-img: /assets/img/sandy-millar-uwnkpSgADTg-unsplash.jpg
+cover-img: /assets/img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
+thumbnail-img: /assets/img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
+share-img: /assets/img/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
 tags: [science] [philosophy]
 ---
 
