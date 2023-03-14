@@ -28,6 +28,7 @@ navbar-links:
     - Literature: "lit"
     - Art: "art"
     - Photography: "photo"
+  Publications: "pubs"
 
 ################
 # --- Logo --- #
