@@ -27,7 +27,9 @@ navbar-links:
     - WalkSmart: "projects/walksmart"
     - TrashTag: "projects/trashtag"
   Portfolio:
-    - Technology: "tech"
+    - Tech Projects:
+        - WalkSmart: "projects/walksmart"
+        - TrashTag: "projects/trashtag"
     - Literature: "lit"
     - Art: "art"
     - Photography: "photo"
