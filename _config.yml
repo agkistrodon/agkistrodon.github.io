@@ -23,6 +23,9 @@ navbar-links:
   Home: "/"
   Resume: "resume"
   Blog: "blog"
+  Projects:
+    - WalkSmart: "projects/walksmart"
+    - TrashTag: "projects/trashtag"
   Portfolio:
     - Technology: "tech"
     - Literature: "lit"
