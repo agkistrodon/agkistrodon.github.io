@@ -7,6 +7,8 @@ share-img: /assets/img/lukas-robertson-M-vI0gaSGjU-unsplash.jpg
 tags: [philosophy, personal]
 ---
 
+<sub>Photo by <a href="https://unsplash.com/@sheetstothewind?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lukas Robertson</a> on <a href="https://unsplash.com/photos/people-standing-on-platform-near-blue-and-white-train-during-daytime-M-vI0gaSGjU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+
 Music swims through my ears, the acoustic notes of Harrison Storm’s “Be Slow” tuning out the world around me. I had never done anything else on the bus; just leaned my head against the bus pole, closed my eyes, and let the half hour fly by until I heard the distinctive voice informing me I had reached my stop. Three weeks of the same monotony, and I was used to it; it was almost subconscious the way I entered and exited with the twentyish other passengers that made the same commute every weekday morning.
 
 That would have also been the case today, because the subconscious me, who had been staring out the grimy window, not truly seeing the boats docked on the edge of Lake Washington, hadn’t noticed that half an hour had already passed. It was only when the woman sitting next to me glanced nervously at her watch, then uttered a question to the passengers sitting solitarily and silently in the back of the bus: “Does anyone know when we’ll reach?”
