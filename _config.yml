@@ -27,6 +27,7 @@ navbar-links:
     - WalkSmart: "projects/walksmart"
     - TrashTag: "projects/trashtag"
     - Conversation Analysis: "projects/conversation-analysis"
+    - Crobot: "projects/crobot"
   Portfolio:
     - Technology: "tech"
     - Literature: "lit"
