@@ -28,6 +28,7 @@ navbar-links:
     - TrashTag: "projects/trashtag"
     - Conversation Analysis: "projects/conversation-analysis"
     - Crobot: "projects/crobot"
+    - Colloquy: "projects/colloquy"
   Portfolio:
     - Technology: "tech"
     - Literature: "lit"
