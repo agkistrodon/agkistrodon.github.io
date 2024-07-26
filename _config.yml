@@ -33,7 +33,7 @@ navbar-links:
     - Technology: "tech"
     - Literature: "lit"
     - Art: "art"
-    - Photography: "photo"
+    # - Photography: "photo"
   Papers: "pubs"
 
 ################
