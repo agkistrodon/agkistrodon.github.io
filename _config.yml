@@ -22,7 +22,7 @@ author: Shruti Badrish
 navbar-links:
   # Home: "/"
   Resume: "resume"
-  Blog: "blog"
+  # Blog: "blog"
   Projects:
     - WalkSmart: "projects/walksmart"
     - TrashTag: "projects/trashtag"
@@ -31,7 +31,7 @@ navbar-links:
     - Colloquy: "projects/colloquy"
   Portfolio:
     - Technology: "tech"
-    - Literature: "lit"
+    # - Literature: "lit"
     - Art: "art"
     # - Photography: "photo"
   Papers: "pubs"
